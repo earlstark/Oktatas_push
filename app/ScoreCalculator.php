@@ -32,11 +32,7 @@ class ScoreCalculator
     }
 
     public function getScores(): array {
-        $rval = [];
-        foreach ($this->students as $student) {
-            $rval[] = $student;
-        }
-        return $rval;
+        return $this->students;
     }
 
     private function loadStudents(array $data) {
