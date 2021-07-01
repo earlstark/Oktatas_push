@@ -1,0 +1,28 @@
+[
+  {
+    "egyetem": "ELTE",
+    "kar": "IK",
+    "szak": "Programtervező informatikus",
+    "kotolezo-erettsegi-targy": "matematika",
+    "kotolezoen-vallaszthato-erettsegi-targyak": [
+      "biologia",
+      "fizika",
+      "informatika",
+      "kémia"
+    ]
+  },
+  {
+    "egyetem": "PPKE",
+    "kar": "BTK",
+    "szak": "Anglisztika",
+    "kotolezo-erettsegi-targy": "angol nyelv",
+    "kotolezoen-vallaszthato-erettsegi-targyak": [
+      "francia",
+      "német",
+      "olasz",
+      "orosz",
+      "spanyol",
+      "történelem"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "kotolezo-erettsegi-targyak": [
+    "magyar nyelv és irodalom",
+    "történelem",
+    "matematika"
+  ],
+  "minimum-erettsegi-eredmeny": 20,
+  "emelt-szintu-erettsegi-pontszam": 50,
+  "nyelvvizsga-pontok": {
+    "B2": 28,
+    "C1": 40
+  }
+}
